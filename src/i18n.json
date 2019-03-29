@@ -1,0 +1,29 @@
+{
+  "close": {
+    "tr": "KAPAT",
+    "en": "CLOSE",
+    "es": "CERRAR",
+    "it": "CHIUDI",
+    "fr": "PROCHE",
+    "pl": "ZAMKNIJ",
+    "ru": "ЗАКРЫТЬ"
+  },
+  "next": {
+    "tr": "SONRAKİ",
+    "en": "NEXT",
+    "es": "SIGUIENTE",
+    "it": "IL PROSSIMO",
+    "fr": "SUIVANT",
+    "pl": "KOLEJNY",
+    "ru": "СЛЕДУЮЩИЙ"
+  },
+  "verb": {
+    "tr": "Fiil Çekimi",
+    "en": "Conjugation",
+    "es": "Conjugación",
+    "it": "Coniugazione",
+    "fr": "Conjugaison",
+    "pl": "Koniugacja",
+    "ru": "Спряжения"
+  }
+}

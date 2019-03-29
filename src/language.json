@@ -1,0 +1,30 @@
+[
+  {
+    "language": "English",
+    "code": "en"
+  },
+  {
+    "language": "Español",
+    "code": "es"
+  },
+  {
+    "language": "Français",
+    "code": "fr"
+  },
+  {
+    "language": "Italiano",
+    "code": "it"
+  },
+  {
+    "language": "Polski",
+    "code": "pl"
+  },
+  {
+    "language": "Русский",
+    "code": "ru"
+  },
+  {
+    "language": "Türkçe",
+    "code": "tr"
+  }
+]
