@@ -8,7 +8,7 @@ Simple web application prepared to learn German verbs.
 
 ## Lighthouse Report
 
-(https://user-images.githubusercontent.com/10882221/55273887-6a811e00-52d1-11e9-8ed9-0e19a9f25ee7.png)
+![Lighthouse Report](https://user-images.githubusercontent.com/10882221/55273887-6a811e00-52d1-11e9-8ed9-0e19a9f25ee7.png)
 
 ### `npm start`
 
